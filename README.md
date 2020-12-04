@@ -57,3 +57,5 @@ proceed manually as follow:
 <li>heroku config:set NODE_ENV=production</li>
 <li>git push heroku maste</li>
  </ul>
+ 
+ <i>Feel free to reach out to me through email at arv.nagpal@accionlabs.com or on LinkedInn if you have any questions or feedback! Hope you find this useful 💜</i>
