@@ -4,6 +4,7 @@ the project is hosted at https://react-flowy.herokuapp.com/ and looks alike the 
  
  <img src="https://camo.githubusercontent.com/44ec31fb7ec2f102092ca50ad4c9a53da743394a26a3551f6cefa0d6c2f45244/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6476314335364f7977725037436e32306e722f67697068792e676966" alt="Italian Trulli">
 
+A React Project to create pretty flowcharts with ease ✨
 
 <h1>Available Scripts</h1>
 In the project directory, you can run:
