@@ -8,6 +8,10 @@ the project is hosted at https://react-flowy.herokuapp.com/ and looks alike the 
 <h1>Available Scripts</h1>
 In the project directory, you can run:
 
+<h3>npm install</h3>
+downloads all the node modules.
+Project is ready to be started.
+
 <h3>npm start</h3>
 Runs the app in the development mode.
 Open http://localhost:3000 to view it in the browser.
