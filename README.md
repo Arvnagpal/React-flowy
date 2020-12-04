@@ -46,3 +46,14 @@ Learn More
 You can learn more in the Create React App documentation.
 
 To learn React, check out the React documentation.
+
+<h3>Heroku deploy</h3>
+(Select "United States" as region, when prompted):
+
+proceed manually as follow:
+<ul>
+<li>heroku create --stack cedar</li>
+<li>heroku addons:add heroku-postgresql:dev</li>
+<li>heroku config:set NODE_ENV=production</li>
+<li>git push heroku maste</li>
+ </ul>
