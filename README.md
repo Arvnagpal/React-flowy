@@ -1,3 +1,4 @@
+<h1>hi</h1>
 This project was bootstrapped with Create React App.
 
 Available Scripts
